@@ -914,3 +914,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.03-22.38.50:911][ 75]LogFileHelpers: Saving map 'Minimal_Default' took 0.040
 [2021.12.03-22.38.50:920][ 75]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.12.03-22.38.50:920][ 75]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.12.03-22.39.45:237][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)

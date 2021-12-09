@@ -1,0 +1,17 @@
+*.sln
+*.sdf
+*.opensdf
+*.suo
+*.target.xml
+*.VC.opendb
+.vs
+Binaries
+Intermediate
+Saved/
+Import
+DerivedDataCache/
+Build/
+Apace.VC.db
+
+
+*.user
